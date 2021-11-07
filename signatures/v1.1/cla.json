@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "epoberezkin",
+      "id": 2769109,
+      "comment_id": 962667386,
+      "created_at": "2021-11-07T19:30:37Z",
+      "repoId": 229407566,
+      "pullRequestNo": 122
+    }
+  ]
 }
